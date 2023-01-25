@@ -9,7 +9,7 @@ Resolviendo ejercicios de programación
 * 5-Generador de Contraseñas [Javascript](javascript/05_Generador_de_passwords.js)
 * 6-Negocio de Vacas | Combinatoria [Javascript](javascript/06_Combinatoria_vacas.js)
 * 7-¿Que tipo de estrofas són? [Javascript](javascript/07_Estrofas.js)
-* 8-Existe Suma Recursivo [Javascript](javascript/08_Existe suma_recursivo.js)
+* 8-Existe Suma Recursivo [Javascript](javascript/08_Existe_suma_recursivo.js)
 * 9-Es par, fibonacci y primo? [Javascript](javascript/09_Par_Fibonnaci_Primo.js) | [Kotlin](kotlin/09_Par_Fibonnaci_Primo.kt) | [Swift](swift/09_Par_Fibonnaci_Primo.swift)
 * 10-Invertir Palabras [Javascript](javascript/10_Invertir_palabras.js)
 * 11-Coins [Javascript](javascript/11_coins.js)
