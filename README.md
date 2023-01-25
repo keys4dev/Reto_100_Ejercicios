@@ -2,7 +2,7 @@
 # Reto_100_Ejercicios
 
 Resolviendo ejercicios de programación
-* 1-I Like Turtles
+* 1-I Like Turtles[javascript/01_I_like_turtles.js]
 * 2-Texto a Hacker
 * 3-Sumar Numeros de un string
 * 4-Existe suma? Recursivo
@@ -20,12 +20,12 @@ Resolviendo ejercicios de programación
 * 16-Anagrama
 * 17-Cadena Inversa
 * 18-Codigo Morse
-* 19-19 Contar Palabras
+* 19-Contar Palabras
 * 20-Decimal A Binario
 * 21-Encriptacion Caraca
 * 22-Expresiones Equilibradas
 * 23-Fibonacci
 * 24-Primo
-* 25-spect Ratio
+* 25-Aspect Ratio
 
 
