@@ -20,8 +20,6 @@
 
  """
 
-
-
 def isAnagrama(text1, text2):
     if text1 == text2:
         print("Is not Anagrama")
