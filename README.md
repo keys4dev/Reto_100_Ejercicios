@@ -2,30 +2,29 @@
 # Reto_100_Ejercicios
 
 Resolviendo ejercicios de programación
-* 1-I Like Turtles[JAVASCRIPT](javascript/01_I_like_turtles.js)
-* 2-Texto a Hacker
-* 3-Sumar Numeros de un string
-* 4-Existe suma? Recursivo
-* 5-Generador de Contraseñas
-* 6-Negocio de Vacas | Combinatoria
-* 7-¿Que tipo de estrofas són?
-* 8-Estrofas
-* 9-Es par, fibonacci y primo?
-* 10-Invertir Palabras
-* 11-Coins
-* 12-FizzBuzz
-* 13-Recursion de 5 a 0
-* 14-Eliminando Caracteres
-* 15-Area de un poligono
-* 16-Anagrama
-* 17-Cadena Inversa
-* 18-Codigo Morse
-* 19-Contar Palabras
-* 20-Decimal A Binario
-* 21-Encriptacion Caraca
-* 22-Expresiones Equilibradas
-* 23-Fibonacci
-* 24-Primo
-* 25-Aspect Ratio
-
+* 1-I Like Turtles [JAVASCRIPT](javascript/01_I_like_turtles.js)
+* 2-Texto a Hacker [JAVASCRIPT](javascript/02_to_hacker_language.js) [Python](python/02_to_hacker_language.py)
+* 3-Sumar Numeros de un string 
+* 4-Existe suma? Recursivo [JAVASCRIPT](javascript/04__Sumar_numeros_de_un_string.js)
+* 5-Generador de Contraseñas [JAVASCRIPT] (javascript/05_Generador_de_passwords.js)
+* 6-Negocio de Vacas | Combinatoria [JAVASCRIPT](javascript/06_Combinatoria_vacas.js)
+* 7-¿Que tipo de estrofas són? [JAVASCRIPT](javascript/07_Estrofas.js)
+* 8-Existe Suma Recursivo [JAVASCRIPT](javascript/08_Existe suma_recursivo.js)
+* 9-Es par, fibonacci y primo? [JAVASCRIPT](javascript/09_Par_Fibonnaci_Primo.js) [Kotlin](kotlin/09_Par_Fibonnaci_Primo.kt) [Swift](swift/09_Par_Fibonnaci_Primo.swift)
+* 10-Invertir Palabras [JAVASCRIPT](javascript/10_Invertir_palabras.js)
+* 11-Coins [JAVASCRIPT](javascript/11_coins.js)
+* 12-FizzBuzz [JAVASCRIPT](javascript/12_fizzbuzz.js)
+* 13-Recursion de 5 a 0 [JAVASCRIPT](javascript/13_recursion_5_a_0.js)
+* 14-Eliminando Caracteres [Swift](swift/14_EliminadoCaracteres.swift)
+* 15-Area de un poligono [Python](python/15_area_poligono.py)
+* 16-Anagrama [Python](python/16_anagrama.py)
+* 17-Cadena Inversa [Python](python/17_cadena_inversa.py)
+* 18-Codigo Morse[Python](python/18_codigo_morse.py)
+* 19-Contar Palabras [Python](python/19_contar_palabras.py)
+* 20-Decimal A Binario [Python](python/20_decimal_a_binario.py)
+* 21-Encriptacion Caraca [Python](python/21_encriptacion_karaca.py)
+* 22-Expresiones Equilibradas [Python](python/22_expresiones_equilibradas.py) 
+* 23-Fibonacci [Python](python/23_fibonacci.py)
+* 24-Primo [Python](python/24_primo.py)
+* 25-Aspect Ratio [Python](python/25_aspect_ratio.py)
 
