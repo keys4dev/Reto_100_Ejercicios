@@ -2,11 +2,30 @@
 # Reto_100_Ejercicios
 
 Resolviendo ejercicios de programación
-* I Like Turtles
-* Texto a Hacker
-* Sumar Numeros de un string
-* Existe suma? Recursivo
-* Generador de Contraseñas
-* Negocio de Vacas | Combinatoria
-* ¿Que tipo de estrofas són?
+* 1. I Like Turtles
+* 2. Texto a Hacker
+* 3. Sumar Numeros de un string
+* 4. Existe suma? Recursivo
+* 5. Generador de Contraseñas
+* 6. Negocio de Vacas | Combinatoria
+* 7. ¿Que tipo de estrofas són?
+* 8. Estrofas
+* 9. Es par, fibonacci y primo?
+* 10. Invertir Palabras
+* 11. Coins
+* 12. FizzBuzz
+* 13. Recursion de 5 a 0
+* 14. Eliminando Caracteres
+* 15. Area de un poligono
+* 16. Anagrama
+* 17. Cadena Inversa
+* 18. Codigo Morse
+* 19. 19 Contar Palabras
+* 20. Decimal A Binario
+* 21. Encriptacion Caraca
+* 22. Expresiones Equilibradas
+* 23. Fibonacci
+* 24. Primo
+* 25. Aspect Ratio
+
 
