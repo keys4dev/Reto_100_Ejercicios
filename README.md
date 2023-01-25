@@ -1,3 +1,4 @@
+![https://raw.githubusercontent.com/keys4dev/Reto_100_Ejercicios/main/images/8-Common-Problems-You-ll-Face-In-Your-First-Job-As-A-Developer--And-How-To-Solve-Them--1024x476.png.webp](./images/banner.webp)
 # Reto_100_Ejercicios
 
 Resolviendo ejercicios de programación
