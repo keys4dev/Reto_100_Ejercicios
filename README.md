@@ -4,7 +4,7 @@
 Resolviendo ejercicios de programación
 * 1-I Like Turtles [Javascript](javascript/01_I_like_turtles.js)
 * 2-Texto a Hacker [Javascript](javascript/02_to_hacker_language.js) | [Python](python/02_to_hacker_language.py)
-* 3-Sumar Numeros de un string 
+* 3-
 * 4-Existe suma? Recursivo [Javascript](javascript/04__Sumar_numeros_de_un_string.js)
 * 5-Generador de Contraseñas [Javascript](javascript/05_Generador_de_passwords.js)
 * 6-Negocio de Vacas | Combinatoria [Javascript](javascript/06_Combinatoria_vacas.js)
