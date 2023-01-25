@@ -2,7 +2,7 @@
 # Reto_100_Ejercicios
 
 Resolviendo ejercicios de programación
-* 1-I Like Turtles[javascript/01_I_like_turtles.js]
+* 1-I Like Turtles[JAVASCRIPT](javascript/01_I_like_turtles.js)
 * 2-Texto a Hacker
 * 3-Sumar Numeros de un string
 * 4-Existe suma? Recursivo
