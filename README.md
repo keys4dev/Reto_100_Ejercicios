@@ -27,7 +27,7 @@ Resolviendo ejercicios de programación
 * 23-Fibonacci [Python](python/23_fibonacci.py)
 * 24-Primo [Python](python/24_primo.py)
 * 25-Aspect Ratio [Python](python/25_aspect_ratio.py)
-* 26-
+* 26-Galibo [Python](python/26_galibo.py)
 * 27-
 * 28-
 * 29-
