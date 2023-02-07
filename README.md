@@ -28,7 +28,7 @@ Resolviendo ejercicios de programación
 * 24-Primo [Python](python/24_primo.py)
 * 25-Aspect Ratio [Python](python/25_aspect_ratio.py)
 * 26-Galibo [Python](python/26_galibo.py)
-* 27- piedra, papel, tijera, lagarto, spock (python/27_piedra_papel_tijera_lagarto_spock.py)
+* 27- piedra, papel, tijera, lagarto, spock [Python](python/27_piedra_papel_tijera_lagarto_spock.py)
 * 28-
 * 29-
 * 30-
